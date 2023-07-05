@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Articles 🎙️
+
+- [開発者が開発に専念できるテスト環境をつくる。「最後はMagicPodが止めてくれる」という安心感が高い開発生産性を支えている。 - MagicPod](https://magicpod.com/customer-stories/buysell/)
+
+
 ### Publications 📖
 
-- https://zenn.dev/jimbeem
-- https://tech.buysell-technologies.com/entry/magicpod-action
+- [MagicPod実行後の本番デプロイを自動化するための自作GitHub Actions - バイセル Tech Blog](https://tech.buysell-technologies.com/entry/magicpod-action)
+- [SheepMedical社のインターンに参加しました - Zenn](https://zenn.dev/jimbeem/articles/cc564e9267754c)
+- [テンプレートリテラルを使ってVanillaJSでもJSXライクな記述を - Zenn](https://zenn.dev/jimbeem/articles/1c19a810b2f673)
