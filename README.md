@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Lightning Talks
+
+- [高い開発生産性を実現するために取り組んだMagicPodの利活用 - MagicPodユーザーLT会](https://speakerdeck.com/jimbo/gao-ikai-fa-sheng-chan-xing-woshi-xian-surutameniqu-rizu-ndamagicpodnoli-huo-yong)
+
 ### Articles 🎙️
 
 - [開発者が開発に専念できるテスト環境をつくる。「最後はMagicPodが止めてくれる」という安心感が高い開発生産性を支えている。 - MagicPod](https://magicpod.com/customer-stories/buysell/)
