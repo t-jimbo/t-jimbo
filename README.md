@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ### Publications 📖
 
+- [GitHub Actionsでのcodegen & PR作成でOpenAPIの変更を楽々レビューする - Zenn](https://zenn.dev/jimbeem/articles/repository-dispatch-codegen)
 - [MagicPod実行後の本番デプロイを自動化するための自作GitHub Actions - バイセル Tech Blog](https://tech.buysell-technologies.com/entry/magicpod-action)
 - [SheepMedical社のインターンに参加しました - Zenn](https://zenn.dev/jimbeem/articles/cc564e9267754c)
 - [テンプレートリテラルを使ってVanillaJSでもJSXライクな記述を - Zenn](https://zenn.dev/jimbeem/articles/1c19a810b2f673)
