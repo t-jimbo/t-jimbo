@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ### Publications 📖
 
+- [フロントエンドの新規開発でNext.jsの採用を見送った話 - バイセルTeah Blog](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-10)
 - [GitHub Actionsでのcodegen & PR作成でOpenAPIの変更を楽々レビューする - Zenn](https://zenn.dev/jimbeem/articles/repository-dispatch-codegen)
 - [MagicPod実行後の本番デプロイを自動化するための自作GitHub Actions - バイセル Tech Blog](https://tech.buysell-technologies.com/entry/magicpod-action)
 - [SheepMedical社のインターンに参加しました - Zenn](https://zenn.dev/jimbeem/articles/cc564e9267754c)
