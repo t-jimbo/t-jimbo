@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-jimbo&layout=compact)
+
 ### Lightning Talks ⚡
 
 - [高い開発生産性を実現するために取り組んだMagicPodの利活用 - MagicPodユーザーLT会](https://speakerdeck.com/jimbo/gao-ikai-fa-sheng-chan-xing-woshi-xian-surutameniqu-rizu-ndamagicpodnoli-huo-yong)
