@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer focusing on Web applicastion development.
+I'm a software engineer focusing on Web application development.
 
 
 ## 📊 Stats
